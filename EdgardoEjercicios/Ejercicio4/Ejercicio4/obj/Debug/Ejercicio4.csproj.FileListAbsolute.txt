@@ -1,0 +1,6 @@
+C:\Users\Edgardo Nogales\Desktop\EjerciciosC\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe.config
+C:\Users\Edgardo Nogales\Desktop\EjerciciosC\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe
+C:\Users\Edgardo Nogales\Desktop\EjerciciosC\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.pdb
+C:\Users\Edgardo Nogales\Desktop\EjerciciosC\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\Edgardo Nogales\Desktop\EjerciciosC\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.exe
+C:\Users\Edgardo Nogales\Desktop\EjerciciosC\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.pdb
