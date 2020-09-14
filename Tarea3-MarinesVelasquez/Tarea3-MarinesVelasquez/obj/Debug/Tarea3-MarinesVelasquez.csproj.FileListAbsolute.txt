@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\EjerciciosIFTS-C#\2do\EDDatos\Tarea3-MarinesVelasquez\Tarea3-MarinesVelasquez\bin\Debug\Tarea3-MarinesVelasquez.exe.config
+C:\Users\User\Desktop\EjerciciosIFTS-C#\2do\EDDatos\Tarea3-MarinesVelasquez\Tarea3-MarinesVelasquez\bin\Debug\Tarea3-MarinesVelasquez.exe
+C:\Users\User\Desktop\EjerciciosIFTS-C#\2do\EDDatos\Tarea3-MarinesVelasquez\Tarea3-MarinesVelasquez\bin\Debug\Tarea3-MarinesVelasquez.pdb
+C:\Users\User\Desktop\EjerciciosIFTS-C#\2do\EDDatos\Tarea3-MarinesVelasquez\Tarea3-MarinesVelasquez\obj\Debug\Tarea3-MarinesVelasquez.csprojAssemblyReference.cache
+C:\Users\User\Desktop\EjerciciosIFTS-C#\2do\EDDatos\Tarea3-MarinesVelasquez\Tarea3-MarinesVelasquez\obj\Debug\Tarea3-MarinesVelasquez.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\EjerciciosIFTS-C#\2do\EDDatos\Tarea3-MarinesVelasquez\Tarea3-MarinesVelasquez\obj\Debug\Tarea3-MarinesVelasquez.exe
+C:\Users\User\Desktop\EjerciciosIFTS-C#\2do\EDDatos\Tarea3-MarinesVelasquez\Tarea3-MarinesVelasquez\obj\Debug\Tarea3-MarinesVelasquez.pdb
