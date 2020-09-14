@@ -1,0 +1,7 @@
+D:\Edatos\fork\EDDatos\javalenzuelaejer2\javalenzuelaejer2\bin\Debug\javalenzuelaejer2.exe.config
+D:\Edatos\fork\EDDatos\javalenzuelaejer2\javalenzuelaejer2\bin\Debug\javalenzuelaejer2.exe
+D:\Edatos\fork\EDDatos\javalenzuelaejer2\javalenzuelaejer2\bin\Debug\javalenzuelaejer2.pdb
+D:\Edatos\fork\EDDatos\javalenzuelaejer2\javalenzuelaejer2\obj\Debug\javalenzuelaejer2.csprojAssemblyReference.cache
+D:\Edatos\fork\EDDatos\javalenzuelaejer2\javalenzuelaejer2\obj\Debug\javalenzuelaejer2.csproj.CoreCompileInputs.cache
+D:\Edatos\fork\EDDatos\javalenzuelaejer2\javalenzuelaejer2\obj\Debug\javalenzuelaejer2.exe
+D:\Edatos\fork\EDDatos\javalenzuelaejer2\javalenzuelaejer2\obj\Debug\javalenzuelaejer2.pdb
