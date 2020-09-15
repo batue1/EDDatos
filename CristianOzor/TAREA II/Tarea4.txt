@@ -1,0 +1,26 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Ejemplo
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Tarea 4");
+            Console.ReadLine();
+
+            int numeroA = 321;
+            int numeroB = 213;
+
+            int resultado = numeroA - numeroB;
+            Console.WriteLine(resultado);
+            Console.ReadLine();
+
+        }
+    }
+}
+

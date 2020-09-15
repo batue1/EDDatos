@@ -1,0 +1,63 @@
+using Microsoft.Win32;
+using System;
+using System.Collections.Generic;
+using System.Data;
+using System.Linq;
+using System.Runtime.CompilerServices;
+using System.Security.Cryptography;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Clase3
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Tarea7");
+            Console.ReadKey();
+
+            /*¿Cuál sería el resultado de las siguientes operaciones? a=5; b=a+2; b-=3; c=-3; c*=2;
+            ++c; a*=b; Crea un programa que te lo muestre.*/
+
+            int a = 5;
+
+            int b;
+
+            int c;
+
+
+            b = a + 2;
+
+            Console.WriteLine(b);
+
+
+            b -= 3;
+
+            Console.WriteLine(b);
+
+
+            c = -3;
+
+            Console.WriteLine(c);
+
+
+            a *= 2;
+
+            Console.WriteLine(a);
+
+
+            ++c;
+
+            Console.WriteLine(c);
+
+
+            a *= b;
+
+            Console.WriteLine(a);
+
+            Console.ReadLine();
+        }
+        
+    }
+}

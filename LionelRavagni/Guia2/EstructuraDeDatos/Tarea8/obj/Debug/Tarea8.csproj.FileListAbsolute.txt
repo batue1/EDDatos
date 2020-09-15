@@ -1,0 +1,7 @@
+C:\Users\Lionel\Source\Repos\EDD-REPOS\FORK\EDDatos\LionelRavagni\Guia2\EstructuraDeDatos\Tarea8\bin\Debug\Tarea8.exe.config
+C:\Users\Lionel\Source\Repos\EDD-REPOS\FORK\EDDatos\LionelRavagni\Guia2\EstructuraDeDatos\Tarea8\bin\Debug\Tarea8.exe
+C:\Users\Lionel\Source\Repos\EDD-REPOS\FORK\EDDatos\LionelRavagni\Guia2\EstructuraDeDatos\Tarea8\bin\Debug\Tarea8.pdb
+C:\Users\Lionel\Source\Repos\EDD-REPOS\FORK\EDDatos\LionelRavagni\Guia2\EstructuraDeDatos\Tarea8\obj\Debug\Tarea8.csproj.CoreCompileInputs.cache
+C:\Users\Lionel\Source\Repos\EDD-REPOS\FORK\EDDatos\LionelRavagni\Guia2\EstructuraDeDatos\Tarea8\obj\Debug\Tarea8.exe
+C:\Users\Lionel\Source\Repos\EDD-REPOS\FORK\EDDatos\LionelRavagni\Guia2\EstructuraDeDatos\Tarea8\obj\Debug\Tarea8.pdb
+C:\Users\Lionel\Source\Repos\EDD-REPOS\FORK\EDDatos\LionelRavagni\Guia2\EstructuraDeDatos\Tarea8\obj\Debug\Tarea8.csprojAssemblyReference.cache

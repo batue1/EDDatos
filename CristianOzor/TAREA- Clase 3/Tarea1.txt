@@ -1,0 +1,41 @@
+using Microsoft.Win32;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Security.Cryptography;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Clase3
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Tarea1");
+            Console.ReadKey();
+
+            Console.WriteLine("Ingrese su número identificador de 4 digitos");
+            int usuario = int.Parse(Console.ReadLine());
+            Console.WriteLine("A continuación ingrese su password");
+            int password = int.Parse(Console.ReadLine());
+
+           
+            if (usuario == 1234 && password == 1111)
+            {
+                Console.WriteLine("Bienvenido");
+            }
+            else
+            {
+                Console.WriteLine("Los datos ingresados son incorrectos");
+            }
+            Console.ReadKey();
+                       
+
+
+                
+           
+
+        }
+    }
+}

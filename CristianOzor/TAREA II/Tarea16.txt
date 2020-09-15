@@ -1,0 +1,28 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace EstructuraDatos
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Tarea16");
+            Console.ReadLine();
+
+            int num;
+
+            for(num = 1; num <= 10; num ++)
+            {
+                Console.WriteLine(num);
+            }
+
+            Console.ReadLine();
+
+
+        }
+    }
+}

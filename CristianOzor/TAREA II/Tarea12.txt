@@ -1,0 +1,35 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace EstructuraDatos
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Tarea12");
+            Console.ReadLine();
+
+            Console.WriteLine("Ingrese el primer número entero");
+            int num1 = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Ingrese el segundo número entero");
+            int num2 = Convert.ToInt32(Console.ReadLine());
+
+            if (num2 != 0)
+            {
+                int resultado = num1 / num2;
+                Console.WriteLine("El cociente entre " + num1 + " y " + num2 + " es " + resultado);
+            }
+            
+            else
+            {
+                Console.WriteLine("Error: No se puede dividir por cero");
+            }
+            Console.ReadLine();
+        }
+    }
+}

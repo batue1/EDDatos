@@ -1,0 +1,34 @@
+using Microsoft.Win32;
+using System;
+using System.Collections.Generic;
+using System.Data;
+using System.Linq;
+using System.Runtime.CompilerServices;
+using System.Security.Cryptography;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Clase3
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Tarea5");
+            Console.ReadKey();
+
+            /*Crea un programa que contenga un bucle sin fin que escriba "Hola" en pantalla, sin
+            avanzar de línea.*/
+
+            int i = 1;
+            while (i > 0)
+            {
+                Console.WriteLine("{0}. Hola", i);
+                i += 1;
+                Console.ReadLine();
+                
+            }
+            Console.ReadKey();
+        }
+    }
+}

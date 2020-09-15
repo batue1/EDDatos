@@ -1,0 +1,31 @@
+using Microsoft.Win32;
+using System;
+using System.Collections.Generic;
+using System.Data;
+using System.Linq;
+using System.Runtime.CompilerServices;
+using System.Security.Cryptography;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Clase3
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Tarea6");
+            Console.ReadKey();
+
+            /*¿Cuál sería el resultado de las siguientes operaciones? a=5; b=++a; c=a++; b=b*5;
+             a=a*2; Crea un programa que lo resuelva.*/
+            int a = 5;
+            int b = ++a;
+            int c = a++;
+
+            Console.WriteLine("a = {0}, b = {1}, c = {2}", (a*2), (b*5), c);
+            Console.ReadKey();
+        }
+        
+    }
+}

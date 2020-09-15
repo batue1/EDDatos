@@ -1,0 +1,6 @@
+C:\Users\Lionel\Source\Repos\EDD-REPOS\FORK\EDDatos\LionelRavagni\Guia2\EstructuraDeDatos\Tarea3\obj\Debug\Tarea3.csproj.CoreCompileInputs.cache
+C:\Users\Lionel\Source\Repos\EDD-REPOS\FORK\EDDatos\LionelRavagni\Guia2\EstructuraDeDatos\Tarea3\bin\Debug\Tarea3.exe.config
+C:\Users\Lionel\Source\Repos\EDD-REPOS\FORK\EDDatos\LionelRavagni\Guia2\EstructuraDeDatos\Tarea3\bin\Debug\Tarea3.exe
+C:\Users\Lionel\Source\Repos\EDD-REPOS\FORK\EDDatos\LionelRavagni\Guia2\EstructuraDeDatos\Tarea3\bin\Debug\Tarea3.pdb
+C:\Users\Lionel\Source\Repos\EDD-REPOS\FORK\EDDatos\LionelRavagni\Guia2\EstructuraDeDatos\Tarea3\obj\Debug\Tarea3.exe
+C:\Users\Lionel\Source\Repos\EDD-REPOS\FORK\EDDatos\LionelRavagni\Guia2\EstructuraDeDatos\Tarea3\obj\Debug\Tarea3.pdb

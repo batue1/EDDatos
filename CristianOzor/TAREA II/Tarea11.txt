@@ -1,0 +1,37 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace EstructuraDatos
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Tarea11");
+            Console.ReadLine();
+
+            Console.WriteLine("Ingrese el primer número entero");
+            int num1 = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Ingrese el segundo número entero");
+            int num2 = Convert.ToInt32(Console.ReadLine());
+
+            if (num1 > num2)
+            {
+                Console.WriteLine("El número " + num1 + " es mayor");
+            }
+            else if (num1 < num2)
+            {
+                Console.WriteLine("El número " + num2 + " es mayor");
+            }
+            else
+            {
+                Console.WriteLine("Los números son iguales");
+            }
+            Console.ReadLine();
+        }
+    }
+}

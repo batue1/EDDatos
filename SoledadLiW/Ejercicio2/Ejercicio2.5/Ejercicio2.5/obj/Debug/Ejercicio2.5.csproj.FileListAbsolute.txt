@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\IFTS\2020\2 cuatrimetre\Estructura de Datos\Ejercicios Visual Studio\Ejercicio2\Ejercicio2.5\Ejercicio2.5\bin\Debug\Ejercicio2.5.exe.config
+C:\Users\User\Desktop\IFTS\2020\2 cuatrimetre\Estructura de Datos\Ejercicios Visual Studio\Ejercicio2\Ejercicio2.5\Ejercicio2.5\bin\Debug\Ejercicio2.5.exe
+C:\Users\User\Desktop\IFTS\2020\2 cuatrimetre\Estructura de Datos\Ejercicios Visual Studio\Ejercicio2\Ejercicio2.5\Ejercicio2.5\bin\Debug\Ejercicio2.5.pdb
+C:\Users\User\Desktop\IFTS\2020\2 cuatrimetre\Estructura de Datos\Ejercicios Visual Studio\Ejercicio2\Ejercicio2.5\Ejercicio2.5\obj\Debug\Ejercicio2.5.csprojAssemblyReference.cache
+C:\Users\User\Desktop\IFTS\2020\2 cuatrimetre\Estructura de Datos\Ejercicios Visual Studio\Ejercicio2\Ejercicio2.5\Ejercicio2.5\obj\Debug\Ejercicio2.5.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\IFTS\2020\2 cuatrimetre\Estructura de Datos\Ejercicios Visual Studio\Ejercicio2\Ejercicio2.5\Ejercicio2.5\obj\Debug\Ejercicio2.5.exe
+C:\Users\User\Desktop\IFTS\2020\2 cuatrimetre\Estructura de Datos\Ejercicios Visual Studio\Ejercicio2\Ejercicio2.5\Ejercicio2.5\obj\Debug\Ejercicio2.5.pdb

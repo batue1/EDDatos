@@ -1,0 +1,7 @@
+C:\Users\Cerbe\Desktop\EstructuraDatos\Fork\EDDatos\Clase3\Clase3\bin\Debug\Clase3.exe.config
+C:\Users\Cerbe\Desktop\EstructuraDatos\Fork\EDDatos\Clase3\Clase3\bin\Debug\Clase3.exe
+C:\Users\Cerbe\Desktop\EstructuraDatos\Fork\EDDatos\Clase3\Clase3\bin\Debug\Clase3.pdb
+C:\Users\Cerbe\Desktop\EstructuraDatos\Fork\EDDatos\Clase3\Clase3\obj\Debug\Clase3.csprojAssemblyReference.cache
+C:\Users\Cerbe\Desktop\EstructuraDatos\Fork\EDDatos\Clase3\Clase3\obj\Debug\Clase3.csproj.CoreCompileInputs.cache
+C:\Users\Cerbe\Desktop\EstructuraDatos\Fork\EDDatos\Clase3\Clase3\obj\Debug\Clase3.exe
+C:\Users\Cerbe\Desktop\EstructuraDatos\Fork\EDDatos\Clase3\Clase3\obj\Debug\Clase3.pdb

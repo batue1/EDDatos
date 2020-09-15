@@ -1,0 +1,7 @@
+D:\Jazmin\Google Drive\Analista de Sistemas\ESTRUCTURA DE DATOS\Proyectos\EstructuraDeDatos\Tarea15\bin\Debug\Tarea15.exe.config
+D:\Jazmin\Google Drive\Analista de Sistemas\ESTRUCTURA DE DATOS\Proyectos\EstructuraDeDatos\Tarea15\bin\Debug\Tarea15.exe
+D:\Jazmin\Google Drive\Analista de Sistemas\ESTRUCTURA DE DATOS\Proyectos\EstructuraDeDatos\Tarea15\bin\Debug\Tarea15.pdb
+D:\Jazmin\Google Drive\Analista de Sistemas\ESTRUCTURA DE DATOS\Proyectos\EstructuraDeDatos\Tarea15\obj\Debug\Tarea15.csprojAssemblyReference.cache
+D:\Jazmin\Google Drive\Analista de Sistemas\ESTRUCTURA DE DATOS\Proyectos\EstructuraDeDatos\Tarea15\obj\Debug\Tarea15.csproj.CoreCompileInputs.cache
+D:\Jazmin\Google Drive\Analista de Sistemas\ESTRUCTURA DE DATOS\Proyectos\EstructuraDeDatos\Tarea15\obj\Debug\Tarea15.exe
+D:\Jazmin\Google Drive\Analista de Sistemas\ESTRUCTURA DE DATOS\Proyectos\EstructuraDeDatos\Tarea15\obj\Debug\Tarea15.pdb

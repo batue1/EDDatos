@@ -1,0 +1,54 @@
+using Microsoft.Win32;
+using System;
+using System.Collections.Generic;
+using System.Data;
+using System.Linq;
+using System.Runtime.CompilerServices;
+using System.Security.Cryptography;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Clase3
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Tarea9");
+            Console.ReadKey();
+
+            /*Crear un programa que pida al usuario un nombre y una contraseña. La contraseña se
+            debe introducir dos veces. Si las dos contraseñas no son iguales, se avisará al usuario y se le
+            volverán a pedir las dos contraseñas.*/
+
+            Console.WriteLine("Ingrese su usuario");
+            Console.ReadLine();
+
+            Console.WriteLine("Escriba la contraseña");
+            string Password1 = Console.ReadLine();
+
+            Console.WriteLine("Escriba la contraseña nuevamente");
+            string Password2 = Console.ReadLine();
+
+            while (Password1 != Password2)
+            {
+                Console.WriteLine("Error! Las contraseñas no coinciden");
+                Console.WriteLine("Vuelva a ingresar la contraseña");
+                Password1 = Console.ReadLine();
+
+                Console.WriteLine("Repita la contraseña");
+                Password2 = Console.ReadLine();
+
+            }
+            Console.ReadKey();
+
+            Console.WriteLine("Bienvenido");
+            Console.ReadLine();
+               
+                   
+            
+
+        }
+        
+    }
+}

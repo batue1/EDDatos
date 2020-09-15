@@ -1,0 +1,57 @@
+using Microsoft.Win32;
+using System;
+using System.Collections.Generic;
+using System.Data;
+using System.Linq;
+using System.Runtime.CompilerServices;
+using System.Security.Cryptography;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Clase3
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Tarea8");
+            Console.ReadKey();
+
+            /*Crea un programa que pida una letra al usuario y diga si se trata de una vocal.*/
+
+            Console.WriteLine("Por favor. Ingrese una letra");
+            String letra = Console.ReadLine();
+
+            switch (letra)
+            {
+                case "a":
+                    Console.WriteLine("La letra que elgió es una vocal");
+                    break;
+
+                case "e":
+                    Console.WriteLine("La letra que elgió es una vocal");
+                    break;
+
+                case "i":
+                    Console.WriteLine("La letra que elgió es una vocal");
+                    break;
+
+                case "o":
+                    Console.WriteLine("La letra que elgió es una vocal");
+                    break;
+
+                case "u":
+                    Console.WriteLine("La letra que elgió es una vocal");
+                    break;
+
+                default:
+                    Console.WriteLine("La letra que eligió es una consonante");
+                    break;
+            }
+            Console.ReadKey();
+            
+
+        }
+        
+    }
+}

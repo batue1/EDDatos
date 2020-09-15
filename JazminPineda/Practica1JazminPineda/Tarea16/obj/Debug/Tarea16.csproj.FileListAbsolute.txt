@@ -1,0 +1,6 @@
+D:\Jazmin\Google Drive\Analista de Sistemas\ESTRUCTURA DE DATOS\Proyectos\EstructuraDeDatos\Tarea16\obj\Debug\Tarea16.csproj.CoreCompileInputs.cache
+D:\Jazmin\Google Drive\Analista de Sistemas\ESTRUCTURA DE DATOS\Proyectos\EstructuraDeDatos\Tarea16\bin\Debug\Tarea16.exe.config
+D:\Jazmin\Google Drive\Analista de Sistemas\ESTRUCTURA DE DATOS\Proyectos\EstructuraDeDatos\Tarea16\bin\Debug\Tarea16.exe
+D:\Jazmin\Google Drive\Analista de Sistemas\ESTRUCTURA DE DATOS\Proyectos\EstructuraDeDatos\Tarea16\bin\Debug\Tarea16.pdb
+D:\Jazmin\Google Drive\Analista de Sistemas\ESTRUCTURA DE DATOS\Proyectos\EstructuraDeDatos\Tarea16\obj\Debug\Tarea16.exe
+D:\Jazmin\Google Drive\Analista de Sistemas\ESTRUCTURA DE DATOS\Proyectos\EstructuraDeDatos\Tarea16\obj\Debug\Tarea16.pdb

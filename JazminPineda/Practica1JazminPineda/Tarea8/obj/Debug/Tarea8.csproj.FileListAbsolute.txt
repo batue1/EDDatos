@@ -1,0 +1,6 @@
+D:\Jazmin\Google Drive\Analista de Sistemas\ESTRUCTURA DE DATOS\Proyectos\EstructuraDeDatos\Tarea8\bin\Debug\Tarea8.exe.config
+D:\Jazmin\Google Drive\Analista de Sistemas\ESTRUCTURA DE DATOS\Proyectos\EstructuraDeDatos\Tarea8\bin\Debug\Tarea8.exe
+D:\Jazmin\Google Drive\Analista de Sistemas\ESTRUCTURA DE DATOS\Proyectos\EstructuraDeDatos\Tarea8\bin\Debug\Tarea8.pdb
+D:\Jazmin\Google Drive\Analista de Sistemas\ESTRUCTURA DE DATOS\Proyectos\EstructuraDeDatos\Tarea8\obj\Debug\Tarea8.csproj.CoreCompileInputs.cache
+D:\Jazmin\Google Drive\Analista de Sistemas\ESTRUCTURA DE DATOS\Proyectos\EstructuraDeDatos\Tarea8\obj\Debug\Tarea8.exe
+D:\Jazmin\Google Drive\Analista de Sistemas\ESTRUCTURA DE DATOS\Proyectos\EstructuraDeDatos\Tarea8\obj\Debug\Tarea8.pdb

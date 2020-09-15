@@ -1,0 +1,7 @@
+C:\Users\Lionel\Source\Repos\EDD-REPOS\FORK\EDDatos\LionelRavagni\Guia2\EstructuraDeDatos\Tarea7\bin\Debug\Tarea7.exe.config
+C:\Users\Lionel\Source\Repos\EDD-REPOS\FORK\EDDatos\LionelRavagni\Guia2\EstructuraDeDatos\Tarea7\bin\Debug\Tarea7.exe
+C:\Users\Lionel\Source\Repos\EDD-REPOS\FORK\EDDatos\LionelRavagni\Guia2\EstructuraDeDatos\Tarea7\bin\Debug\Tarea7.pdb
+C:\Users\Lionel\Source\Repos\EDD-REPOS\FORK\EDDatos\LionelRavagni\Guia2\EstructuraDeDatos\Tarea7\obj\Debug\Tarea7.csprojAssemblyReference.cache
+C:\Users\Lionel\Source\Repos\EDD-REPOS\FORK\EDDatos\LionelRavagni\Guia2\EstructuraDeDatos\Tarea7\obj\Debug\Tarea7.csproj.CoreCompileInputs.cache
+C:\Users\Lionel\Source\Repos\EDD-REPOS\FORK\EDDatos\LionelRavagni\Guia2\EstructuraDeDatos\Tarea7\obj\Debug\Tarea7.exe
+C:\Users\Lionel\Source\Repos\EDD-REPOS\FORK\EDDatos\LionelRavagni\Guia2\EstructuraDeDatos\Tarea7\obj\Debug\Tarea7.pdb

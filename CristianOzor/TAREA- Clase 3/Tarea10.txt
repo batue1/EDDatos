@@ -1,0 +1,43 @@
+using Microsoft.Win32;
+using System;
+using System.Collections.Generic;
+using System.Data;
+using System.Linq;
+using System.Runtime.CompilerServices;
+using System.Security.Cryptography;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Clase3
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Tarea10");
+            Console.ReadKey();
+
+            /*Crear un programa que pida al usuario su nombre, y le diga "Hola"; si se llama
+            "Martin", o bien le diga "No te conozco" si teclea otro nombre.*/
+
+            Console.WriteLine("Ingrese su nombre");
+            String nombre = Console.ReadLine();
+
+            while (nombre != "Martin")
+            {
+                Console.WriteLine("No te conozco");
+                Console.ReadLine();
+                Console.WriteLine("Escriba su nombre nuevamente");
+                nombre = Console.ReadLine();
+            }
+            Console.ReadKey();
+            Console.WriteLine("Hola");
+            Console.ReadKey();
+
+
+            
+
+        }
+        
+    }
+}

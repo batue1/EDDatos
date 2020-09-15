@@ -1,0 +1,6 @@
+D:\Jazmin\Google Drive\Analista de Sistemas\ESTRUCTURA DE DATOS\Proyectos\ConsoleApp1\Tarea7\bin\Debug\Tarea7.exe.config
+D:\Jazmin\Google Drive\Analista de Sistemas\ESTRUCTURA DE DATOS\Proyectos\ConsoleApp1\Tarea7\bin\Debug\Tarea7.exe
+D:\Jazmin\Google Drive\Analista de Sistemas\ESTRUCTURA DE DATOS\Proyectos\ConsoleApp1\Tarea7\bin\Debug\Tarea7.pdb
+D:\Jazmin\Google Drive\Analista de Sistemas\ESTRUCTURA DE DATOS\Proyectos\ConsoleApp1\Tarea7\obj\Debug\Tarea7.csproj.CoreCompileInputs.cache
+D:\Jazmin\Google Drive\Analista de Sistemas\ESTRUCTURA DE DATOS\Proyectos\ConsoleApp1\Tarea7\obj\Debug\Tarea7.exe
+D:\Jazmin\Google Drive\Analista de Sistemas\ESTRUCTURA DE DATOS\Proyectos\ConsoleApp1\Tarea7\obj\Debug\Tarea7.pdb

@@ -1,0 +1,7 @@
+C:\Users\marti\source\estructura\EDDatos\ejerclase3\ejerclase3\bin\Debug\ejerclase3.exe.config
+C:\Users\marti\source\estructura\EDDatos\ejerclase3\ejerclase3\bin\Debug\ejerclase3.exe
+C:\Users\marti\source\estructura\EDDatos\ejerclase3\ejerclase3\bin\Debug\ejerclase3.pdb
+C:\Users\marti\source\estructura\EDDatos\ejerclase3\ejerclase3\obj\Debug\ejerclase3.csprojAssemblyReference.cache
+C:\Users\marti\source\estructura\EDDatos\ejerclase3\ejerclase3\obj\Debug\ejerclase3.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\estructura\EDDatos\ejerclase3\ejerclase3\obj\Debug\ejerclase3.exe
+C:\Users\marti\source\estructura\EDDatos\ejerclase3\ejerclase3\obj\Debug\ejerclase3.pdb

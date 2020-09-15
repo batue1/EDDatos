@@ -1,0 +1,30 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Ejemplo
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Tarea 9");
+            Console.ReadLine();
+
+            Console.WriteLine("Ingrese el primer número");
+            int numero1 = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Ingrese el segundo número");
+            int numero2 = Convert.ToInt32(Console.ReadLine());
+
+            int resultado = numero1 * numero2;
+
+            Console.WriteLine("El producto entre ambos números es " + resultado);
+            Console.ReadLine();
+
+        }
+    }
+}
+
